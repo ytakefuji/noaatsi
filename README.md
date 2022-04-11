@@ -1,4 +1,8 @@
 # noaatsi
+[![Open in Code Ocean](https://codeocean.com/codeocean-assets/badge/open-in-code-ocean.svg)](https://codeocean.com/capsule/5710884/tree)
+
+takefuji (2022) noaatsi: a PyPI for displaying TSI graph based on NOAA [Source Code]. https://doi.org/10.24433/CO.6916537.v1
+
 noaatsi is a PyPI package application to scrape the updated data from NOAA on TSI and to display the TSI graph.
 Data is stored in the following site which will be automatically scraped by noaatsi:
 
