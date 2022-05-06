@@ -1,5 +1,5 @@
 # noaatsi
-[![Open in Code Ocean](https://codeocean.com/codeocean-assets/badge/open-in-code-ocean.svg)](https://codeocean.com/capsule/5710884/tree)
+[![Open in Code Ocean](https://codeocean.com/codeocean-assets/badge/open-in-code-ocean.svg)](https://codeocean.com/capsule/5710884/tree )
 
 takefuji (2022) noaatsi: a PyPI for displaying TSI graph based on NOAA [Source Code]. https://doi.org/10.24433/CO.6916537.v1
 
