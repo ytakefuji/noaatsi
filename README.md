@@ -1,5 +1,6 @@
 # noaatsi
-https://downloads.intercomcdn.com/i/o/89103242/f6c6cf83e1e70802d122d986/open-in-code-ocean.png
+
+[![Open in Code Ocean](https://downloads.intercomcdn.com/i/o/89103242/f6c6cf83e1e70802d122d986/open-in-code-ocean.png)](https://codeocean.com/capsule/5710884/tree )
 
 [![Open in Code Ocean](https://codeocean.com/codeocean-assets/badge/open-in-code-ocean.svg)](https://codeocean.com/capsule/5710884/tree )
 
